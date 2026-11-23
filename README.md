@@ -1,8 +1,8 @@
 # news-image-20261122
 
 [![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122)
-[![rank](https://make.fun/badge/news-image-20261122/aethertale/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard)
-[![reward](https://make.fun/badge/news-image-20261122/aethertale/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/andthods123/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard)
+[![reward](https://make.fun/badge/news-image-20261122/andthods123/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122)
 
 One image, one day: Sunday 22 November 2026, as a dense newspaper
 front page — 30 stories from 6 continents. The three leads are COP31
